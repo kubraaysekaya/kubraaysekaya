@@ -7,7 +7,7 @@
 ## 🚀 Hakkımda
 🔹 5 yıla yakın süredir **Python Developer** olarak çalışıyorum.  
 🔹 **Backend Development** alanında uzmanlaşıyor, ölçeklenebilir sistemler geliştiriyorum.  
-🔹 **Data Engineering** ve **Go** ekosistemine meraklıyım, kendimi bu alanlarda da geliştiriyorum.  
+🔹  **Go** ekosistemine meraklıyım, kendimi bu alanlarda da geliştiriyorum.  
 
 💡 **Motto:** _“Sürekli öğren, paylaş, geliştir.”_
 
