@@ -1,16 +1,58 @@
-## Hi there 👋
+<!-- Profil Banner -->
+<h1 align="center">👋 Merhaba, Ben Kübra Ayşe Kaya</h1>
+<h3 align="center">Python Developer | Backend Engineer | Data Enthusiast</h3>
 
-<!--
-**kubraaysekaya/kubraaysekaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda
+🔹 5 yıla yakın süredir **Python Developer** olarak çalışıyorum.  
+🔹 **Backend Development** alanında uzmanlaşıyor, ölçeklenebilir sistemler geliştiriyorum.  
+🔹 **Data Engineering** ve **Go** ekosistemine meraklıyım, kendimi bu alanlarda da geliştiriyorum.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Motto:** _“Sürekli öğren, paylaş, geliştir.”_
+
+---
+
+## 🛠️ Teknolojiler & Araçlar
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kubraaysesosun&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubraaysesosun&layout=compact&theme=radical" alt="langs" height="180"/>
+</p>
+
+---
+
+## 🏆 GitHub Başarıları
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kubraaysesosun&theme=radical&row=1&column=6" alt="trophy"/>
+</p>
+
+---
+
+## 🔗 Sosyal Medya & İletişim
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kubraaysesosun/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/kubraaysesosun"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+✨ Profilime hoş geldin! Açık kaynak katkılarım ve projelerime göz atabilirsin. 🚀
